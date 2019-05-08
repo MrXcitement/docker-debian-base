@@ -40,7 +40,7 @@ conduct, and the process for submitting pull requests to us.
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](./tags). 
+see the [tags on this repository](https://github.com/MrXcitement/docker-debian-base/tags). 
 
 ## Authors
 
